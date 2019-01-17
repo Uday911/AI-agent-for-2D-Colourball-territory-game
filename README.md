@@ -5,6 +5,6 @@ The Project trains an AI agent to play and win custom made game using pygame lib
 Pygame, Pytorch, numpy, random
 
 # Algorithm used
-Data gathered by the gameplay between two networks one is playing randomly and another with ongoing training training
+Data gathered by the gameplay between two networks one is playing randomly and another with ongoing training
 Categorical crossentropy used
 
